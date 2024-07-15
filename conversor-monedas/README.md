@@ -18,4 +18,4 @@ _Es importante que al ingresar tanto la opcion deseada como el monto lo haga amb
 
 ## Autor ✒️
 
-* **Facundo Gaitan** - *Desarrollador* - [FCGaitan](https://github.com/FCGaitan)
+* **Facundo Gaitan** - *Desarrollador* - [FacundoCGM](https://github.com/FacundoCGM)
